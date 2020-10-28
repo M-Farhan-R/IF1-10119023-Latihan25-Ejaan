@@ -12,7 +12,7 @@ package if1.pkg10119023.latihan25.ejaan;
  * NAMA              : Muhammad Farhan R 
  * KELAS             : IF1
  * NIM               : 10119023
- * Deskripsi Program :
+ * Deskripsi Program : Program memisah string per char
  *
  */
 import java.util.Scanner;
